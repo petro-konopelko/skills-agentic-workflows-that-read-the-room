@@ -35,4 +35,4 @@ Use `web-fetch` to read:
 
 Update `site/content/github-info.md` with concise, practical highlights for developers. Include source references to GitHub Blog and/or Changelog entries used for each update.
 
-When changes are ready, use `create-pull-request` to open a draft PR proposing only `site/content/github-info.md`. In the PR description, explicitly request Mona's review.
+When changes are ready, use `create-pull-request` to open a draft pull request for Mona's review proposing only `site/content/github-info.md`. In the PR description, explicitly request Mona's review.
