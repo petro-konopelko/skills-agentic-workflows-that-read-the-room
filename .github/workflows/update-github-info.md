@@ -25,6 +25,7 @@ network:
     - defaults
     - github.blog
     - github.com
+    - awesome-copilot.github.com
 ---
 
 Read `notes/mona-notes.md` and follow those editorial notes when writing updates.
@@ -32,7 +33,8 @@ Read `notes/mona-notes.md` and follow those editorial notes when writing updates
 Use `web-fetch` to read:
 - https://github.blog/latest/
 - https://github.blog/changelog/
+- https://awesome-copilot.github.com/workflows/
 
-Update `site/content/github-info.md` with concise, practical highlights for developers. Include source references to GitHub Blog and/or Changelog entries used for each update.
+Update `site/content/github-info.md` with concise, practical highlights for developers. Include source references to GitHub Blog, Changelog, and/or Awesome Copilot Workflows entries used for each update.
 
 When changes are ready, use `create-pull-request` to open a draft pull request for Mona's review proposing only `site/content/github-info.md`. In the PR description, explicitly request Mona's review.
